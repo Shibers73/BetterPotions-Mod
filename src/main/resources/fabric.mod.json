@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "betterpotions",
+  "version": "${version}",
+
+  "name": "Better Potions",
+  "description": "A mod that adds useful potions!",
+  "authors": [
+    "Shiba73"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/betterpotions/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.shiba73.betterpotions.BetterPotions"
+    ],
+    "client": [
+      "net.shiba73.betterpotions.BetterPotionsClient"
+    ]
+  },
+  "mixins": [
+    "betterpotions.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
