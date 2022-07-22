@@ -1,9 +1,18 @@
-# Fabric Example Mod
+# Better Potions Mod
 
-## Setup
+## Info
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Makes so every effect has a potion (ex. Levitation Potion)
 
-## License
+Currently the potions aren't craftable, i will make it in the future.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+All potions for now are level 2 and durate 5 minutes.
+
+## TODO
+
+1)Adding ModMenu configuration to disable potions.
+2)Making the potions craftable.
+
+## DEPENDECIES
+
+Fabric Api
