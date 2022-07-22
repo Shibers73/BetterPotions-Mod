@@ -16,4 +16,4 @@ All potions for now are level 2 and durate 5 minutes.
 
 ## DEPENDECIES
 
-Fabric Api
+[<img alt="alt_text" width="180px" src="https://i.imgur.com/Ol1Tcf8.png" />](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
