@@ -11,6 +11,7 @@ All potions for now are level 2 and durate 5 minutes.
 ## TODO
 
 1)Adding ModMenu configuration to disable potions.
+
 2)Making the potions craftable.
 
 ## DEPENDECIES
