@@ -8,6 +8,8 @@ Currently the potions aren't craftable, i will make it in the future.
 
 All potions for now are level 2 and durate 5 minutes.
 
+Forge Port Source Code: https://github.com/Shibers73/BetterPotions-Mod-Forge
+
 ## TODO
 
 1)Adding ModMenu configuration to disable potions.
